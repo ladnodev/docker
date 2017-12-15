@@ -1,2 +1,2 @@
 FROM atlassian/default-image
-RUN apt-get install gettext
+RUN apt-get install -y gettext
